@@ -11,4 +11,10 @@ Practice) word frequency (과제파일: word_freq.py)
    - 두번째 param 숫자의 상위 count의 word를 화면에 보여줌
    - 화면에 count 수의 내림차순으로 보여주고 종료
    - 보여주는 화면에서 word 는 left 정렬 / count 는 right 정렬
-e
+* 실행 예시
+$ ./word_freq.py textfile.txt 5
+have      28940
+goint       3829
+from          923
+and              37
+for               76
